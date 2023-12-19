@@ -14,7 +14,7 @@ setuptools.setup(
     long_description=long_description,
     long_description_content_type="text/markdown",
     license='GNU GPL v3',
-    url="https://github.com/abhijithneilabraham/tableQA",
+    url="https://github.com/Maryam-Ah/tableqa",
     install_requires=install_requires,
     packages=setuptools.find_packages(),
     python_requires='>=3.6',
